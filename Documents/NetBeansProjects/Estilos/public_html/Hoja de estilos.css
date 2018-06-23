@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23/06/2018, 12:26:15 PM
+    Author     : Elizabeth
+*/todos los elementos de la pagina/*
+{
+font-size: 16px;
+font-family:arial,helvetical,san-serif;
+}
+
+/*todos los parrafos de la pagina*/
+{
+    color:#555
+}
+
+/*todos los parrafos contenido en primero */
+
+{color: #369;}
+
+/*todos los enlaces de la pagina */
+{
+    color:#C30;
+}
+
+/*Todos los <em>contenidos en primero */
+{
+    color:#0000BB;
+    background-color:#FFFFCC;
+}
+
+/*todos los elemntos<em> con la clase "especial" en toda la pagina*/
+{
+    color:#FFFF00;
+    background:#000000;
+}
+
+/*Todos los elementos<span>contenidos en la clase"normal"*/
+
+{
+    font-weight:bold;
+}
